@@ -1,16 +1,3 @@
----
-tags     :    
-imageNameKey: Untitled
-summary  : 
-
----
-
-Parents  : 
-
-|                                 |                              |
-|:------------------------------- |:---------------------------- |
-| Date and time note was created  | `$= dv.current().file.ctime` |
-| Date and time note was modified | `$= dv.current().file.mtime` |
 
 ![[IMG_9060.jpg]]
 These are my musings from #ChennaiFOSS2024, I had a great time there learning about new FOSS technologies and how one can contribute or atleast being a part of it and spread awareness. So though

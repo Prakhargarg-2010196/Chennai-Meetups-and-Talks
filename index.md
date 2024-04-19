@@ -1,6 +1,6 @@
 
 
-# FOSS CHENNAI 2.0 
+# [FOSS CHENNAI 2.0](https://indiafoss.net/Chennai/2024) 
 ![IMG_9060](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/f28bbc09-f748-40d6-ada7-72fa9a264569)
 
 These are my musings from **#ChennaiFOSS2024**, I had a great time there learning about new FOSS technologies and how one can contribute or atleast being a part of it and spread awareness. So thought of sharing my learnings from each of the talks attended there. 

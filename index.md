@@ -138,6 +138,7 @@ The list of open-source tools used by Zerodha are mentioned [**here**](https://z
 ![IMG_20240406_163546](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/f795594e-6ea2-429d-a07f-2961630c17dd)
 
 This talk was on point and  really  informative regarding optimisations. Many people who are in beginning of the optimisations in their projects both companies as well as self-builders can learn from [The Commit Company](https://twitter.com/commit_company) process of optimising their product
+<br>
 Nikhil introduced how [Raven](https://ravenapp.info/) built on top of Frappe framework which was once less optimised , was able to improve by intense observation and following out a three step process which focus on performance by default.
 
 ![WhatsApp Image 2024-04-14 at 18 46 43 (1)](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/b488b523-ef6c-4d07-85ca-60b174abe61d)
@@ -151,8 +152,12 @@ Nikhil introduced how [Raven](https://ravenapp.info/) built on top of Frappe fra
 ![WhatsApp Image 2024-04-14 at 18 46 45 (2)](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/ceab41c0-441c-4212-abe5-68900f9d2803)
 
 <br>
-Nikhil first analysed the bundle size of the entire project and checked out the dependencies that were just used in haste to implement the functionality but are no longer needed and can be implemented in custom way to reduce bundle size. (Use what's needed)
+Nikhil first analysed the bundle size of the entire project and checked out the dependencies that were just used in haste to implement the functionality but are no longer needed and can be implemented in custom way to reduce bundle size. (Use what's needed) 
+<br>
 Second problem Nikhil was facing was heavy components and less customizability of UI library so they switched to tailwind for most of their components.(Use what's needed)
+
+<br>
+
 Thirdly they solved the issue of mork overhead on loading the components in the run time by lazy loading some components and pages. (Load what's needed)
  
  > They resolved a issue on a specific message rendering problem which they were facing using the following strategy.

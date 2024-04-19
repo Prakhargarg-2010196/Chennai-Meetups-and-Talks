@@ -48,6 +48,9 @@ Rahul illustrated how the patents with broad definition can be used by the compa
 Shree kumar spoke about THEJAS32 a processor which in commonplace terms he mentioned as sarkari SOC because of its non-usability in bigger picture. But according to him if this device which is quite cheap (**Rs. 289**) is utilised for learning purpose,it would have a great impact on the hardware open-source community.
 ### Related Links
 - [THEJAS32-the Sarkari SoC](https://cdac-vega.gitlab.io/socoverview/socdetails.html)
+
+<br>
+
 He is also working on a personal project which would enhance it further. 
 ![WhatsApp Image 2024-04-14 at 18 46 48 (2)](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/089cba31-91d0-4aef-af75-5f93fee2dfc0)
 - [GitHub : Testbed: Board to test out THEJAS32](https://github.com/shreekumar3d/thejas32-testbed)

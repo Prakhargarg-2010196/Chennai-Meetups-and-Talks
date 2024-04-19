@@ -186,9 +186,7 @@ At the end few five minute speakers introduced their own projects and illustrate
 
 At the end I would like to thanks @FOSSUnited for a good session looking forward to participate more if got a chance in future too.
 <br>
-
-
-
+[My Socials](https://bento.me/prakhar-garg)
 
 
  

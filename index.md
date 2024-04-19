@@ -1,5 +1,5 @@
 
-![image](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/a9c79157-51c2-40e8-85f0-d0c1aff4c261)
+
 # FOSS CHENNAI 2.0 
 ![IMG_9060](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/f28bbc09-f748-40d6-ada7-72fa9a264569)
 

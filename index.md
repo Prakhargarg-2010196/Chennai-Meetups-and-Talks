@@ -156,9 +156,12 @@ Thirdly they solved the issue of mork overhead on loading the components in the 
 ![WhatsApp Image 2024-04-14 at 18 46 43](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/7518b895-8fb2-47f4-a7f4-fa8cbc1de469)
 
 # [Pavish Kumar Ramani Gopal](https://www.linkedin.com/in/pavishkumar/)
- ### Bridging the database divide 
+### Bridging the database divide 
+ <br>
+ 
  ![image](https://github.com/Prakhargarg-2010196/FOSS_CHENNAI/assets/77922738/a78dd1ea-9f6b-4756-8f5f-e93c5bebb02b)
 
+<br>
  This talk was relatively short but intuitive as well the author had great communication skills. The idea was described very nicely in short span of time. 
  Pavish basically talked about [Mathesar](https://mathesar.org/) , a tool that would help both technical as well as non-technical crowd to makeshift from excel to PostgresSQL without much cognitive overload.
  The problem was that technical people can and do interact with PostgresSQL or any other Database on daily usecase. 

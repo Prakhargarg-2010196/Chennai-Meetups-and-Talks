@@ -169,11 +169,12 @@ The advantages of this would be :
 1. The non-technical people can use the power of Database without much help required.
 2. Data analysis could be done easily with an easy to use interface.
 
-# Why to sell FOSS and HOW and goodbyes
+# Why to sell FOSS and HOW 
 - The end session was a discussion among few of the people above regarding the difficulties they are facing while developing a FOSS product , how they solve their problems , what are the usecases they would be dealing with in future and also how they are thinking of monetizing the product if they do.
 - Things also discussed were how one can break into FOSS and how should one deal with burnouts
 	> I really liked the idea of Nikhil regarding this that one should firstly focus on building things instead of breaking into FOSS instead to be ready for FOSS first even before creating your own project would definitely give you skills required for it.
 
+# Last moments and GoodByes
 At the end few five minute speakers introduced their own projects and illustrated the usage. 
 >After this FOSS chennai came to an end with a note of thanks from [Hari Prasanth S](https://www.linkedin.com/in/nammahari/) 
 

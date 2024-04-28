@@ -8,6 +8,7 @@
 ![image](https://github.com/Prakhargarg-2010196/Chennai-Meetups-and-Talks/assets/77922738/edac499b-cc5d-4b11-91db-6e8c87bfa61c)
 
 What is Augmented Reality?
+
 Augmented reality (AR) seamlessly blends virtual elements with the real world, enhancing the physical environment with digital overlays like images or objects.
 
 Examples of A.R Given : [IKEA  using the A.R](https://www.wareable.com/ar/ikea-place-ar-arms-race-modiface-arkit-827)
@@ -39,6 +40,7 @@ Why use Viro React?
 ![image](https://github.com/Prakhargarg-2010196/Chennai-Meetups-and-Talks/assets/77922738/fc515c68-b092-40f2-b854-77b839e88c50)
 
 What is Microfrontend Architechture?
+
 Microfrontend architechture allows the architecture to be broken down into separate modules that have low coupling between them and can function as separate unit.
 
 ### Major points noted from the talk
@@ -66,6 +68,7 @@ Microfrontend architechture allows the architecture to be broken down into separ
 - Package approach: To bundle the code into one module we can use several package managers.
 
 After this **Shanthi P**,showed us how module federation can be utilised to implement micro-frontend architecture.
+
 [`Create-mf-app`](https://www.npmjs.com/package/create-mf-app)  : To create module federations between several web-apps
 
 ### Data passing techniques

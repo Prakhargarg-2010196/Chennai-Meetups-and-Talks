@@ -1,5 +1,7 @@
 # ChennaiReact
 
+![image](https://github.com/Prakhargarg-2010196/Chennai-Meetups-and-Talks/assets/77922738/ec96ccd0-0c12-4ec9-ac17-cafadfea2a15)
+
 ## [Arun Kumar](https://www.linkedin.com/in/arunkumarvallal/)
 
 ## ​**Talk #1:** Augmented Reality with React Native using Viro SDK

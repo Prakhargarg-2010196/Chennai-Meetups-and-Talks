@@ -3,6 +3,7 @@
 ## [Arun Kumar](https://www.linkedin.com/in/arunkumarvallal/)
 
 ## ​**Talk #1:** Augmented Reality with React Native using Viro SDK
+![image](https://github.com/Prakhargarg-2010196/Chennai-Meetups-and-Talks/assets/77922738/edac499b-cc5d-4b11-91db-6e8c87bfa61c)
 
 What is Augmented Reality?
 Augmented reality (AR) seamlessly blends virtual elements with the real world, enhancing the physical environment with digital overlays like images or objects.
@@ -33,6 +34,7 @@ Why use Viro React?
 ## [Shanthi P](https://www.linkedin.com/in/shanthi-palani-0500a9100/)
 
 ## **Talk #2**: Exploring the World of Microfrontend Architecture with React
+![image](https://github.com/Prakhargarg-2010196/Chennai-Meetups-and-Talks/assets/77922738/fc515c68-b092-40f2-b854-77b839e88c50)
 
 What is Microfrontend Architechture?
 Microfrontend architechture allows the architecture to be broken down into separate modules that have low coupling between them and can function as separate unit.
@@ -80,6 +82,8 @@ A Fun Quiz based on React and frontend concepts was held.
 
 ## ​Talk #3: Building web components with React
 
+![image](https://github.com/Prakhargarg-2010196/Chennai-Meetups-and-Talks/assets/77922738/9446f5be-4a89-4102-b470-020d46e36ba4)
+
 ### Web components
 
 With the rise of frontend technologies embracing componentization principles, users have had the option to utilize native components. However, when native web APIs are necessary for component creation, web components enter the spotlight.
@@ -102,4 +106,4 @@ During the networking session, I had the pleasure of engaging with professionals
 - [Abhijith Konnayil: A Fullstack Dev](https://www.linkedin.com/in/abhijithkonnayil/)
 - [Abinandan G: A Frontend Dev](https://www.linkedin.com/in/abinandan-g-b39971113/)
 - [Praveen : MERN stack Dev](https://www.linkedin.com/in/praveen-pandi/)
-- [Mohan Raj](https://www.linkedin.com/in/mohan-raj-3a180a1b0/)
+- [Mohan Raj: Backend Dev](https://www.linkedin.com/in/mohan-raj-3a180a1b0/)
